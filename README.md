@@ -1,5 +1,5 @@
 # Lydia-Tan_repo
 This is my first repository in the GI-T9-SMUWIT organisation
+This is the Night Night Moo project which would not be possible without everyone's amazing ideas & David's assistance for github and more & Eleora's design skills for the prototype & Ritika's Task list & Rachel's encouraging but strict senior presence. &... I'm not to sure what to write for the read me file.
 
-I like Sleeping, Skating and Studying and there's so many s in what I like cus I'm SHUPER SPiDer man or at least that is what I convince myself to be. At this moment, putting code into this file befuddles me and I'm asking google for cool things to write here or many what do ordinary people write about their project. Either way, sleep really sounds great but this code does not condone such activities hence this shall be published and go into the email to WIT.
-
+Based on the sustainable goal of good health and wellbeing, we created an app called night night moo because it emphasizes on reflection before bad time. Everyday, the app motivates the user to reflect & journal after they have finished off their tasks before night night. Everytime they run the timer and stop it, recording each journaling time. Moo moo as would be represented by agnes from dispicable me, the rise of gru or customisable by the user would grow one day older!
